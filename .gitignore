@@ -277,6 +277,9 @@ Vagrantfile
 # Complied Plugin Outputs
 main.js
 
+# Runtime/State Files
+obsidian_to_anki_data.json
+
 tests/test_config/*
 tests/test_vault/*
 tests/specs_gen/*

@@ -1,2 +1,2 @@
-Gooey==1.0.4.0.0.0
-Markdown==3.2.2
+Gooey>=1.0.8.1
+Markdown>=3.4.1
